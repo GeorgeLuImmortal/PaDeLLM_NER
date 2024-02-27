@@ -15,6 +15,7 @@ All model weights are available at https://huggingface.co/JinghuiLuAstronaut
 
 with names **PaDeLLM\_{model}\_{model_size}\_{dataset}**
 
-# Inference code
+# Quick start
 
-You can run inference based on 
+For English dataset: bash run_conll03_pred_eval_multigpus.sh
+For Chinese dataset: bash run_weibo_pred_eval_multigpus.sh

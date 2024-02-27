@@ -16,3 +16,5 @@ All model weights are available at https://huggingface.co/JinghuiLuAstronaut
 with names **PaDeLLM\_{model}\_{model_size}\_{dataset}**
 
 # Inference code
+
+You can run inference based on 

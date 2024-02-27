@@ -4,7 +4,7 @@ This repository is an official implementation based on paper [PaDeLLM-NER: Paral
 
 
 <p align="center">
-  <img width="100" height="100" src="./padellm.png" alt="overview">
+  <img width="1000" height="1000" src="./padellm.png" alt="overview">
 </p>
 
 

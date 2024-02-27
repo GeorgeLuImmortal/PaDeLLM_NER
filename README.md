@@ -10,4 +10,4 @@ Since it is easy to re-implement the training procedure based on the paper, we w
 
 All model weights are available at https://huggingface.co/JinghuiLuAstronaut
 
-with names PaDeLLM_{model}_{model_size}_{dataset}
+with names PaDeLLM__{model}__{model_size}__{dataset}

@@ -27,6 +27,9 @@ with names **PaDeLLM\_{model}\_{model_size}\_{dataset}**
 # Quick start
 
 For English dataset: 
+
     bash run_conll03_pred_eval_multigpus.sh
+
 For Chinese dataset: 
+
     bash run_weibo_pred_eval_multigpus.sh

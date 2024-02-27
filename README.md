@@ -30,6 +30,13 @@ For English dataset:
 
     bash run_conll03_pred_eval_multigpus.sh
 
+    bash run_conll03_pred_eval_single.sh
+
 For Chinese dataset: 
 
     bash run_weibo_pred_eval_multigpus.sh
+
+    bash run_weibo_pred_eval_singlegpu.sh
+
+Note that run\_{dataset}\_pred\_eval\_multigpus.sh corresponding to PaDeLLM-Multi in the paper, which uses one gpu to simulate batch decoding in multiple gpus.
+run\_{dataset}\_pred\_eval\_single.sh corresponding to PaDeLLM-Single in the paper using one gpu parallel decoding all entities (requires large gpu memory in some datasets).

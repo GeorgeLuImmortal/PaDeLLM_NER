@@ -5,7 +5,7 @@ This repository is an official implementation based on paper [PaDeLLM-NER: Paral
 ![overview](./padellm.png)
 
 # Datasets
-We provide processed datasets used in our paper at the data directory, except ACE05 and Ontonotes 4 for copyright reasons.
+We provide processed datasets used in our paper at the _ner_data directory, except ACE05 and Ontonotes 4 for copyright reasons.
 
 # Training code and model weights
 

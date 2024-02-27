@@ -1,0 +1,983 @@
+[
+    {
+        "id": 0,
+        "texts": "SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .",
+        "pred": {
+            "LOC": [
+                [
+                    "JAPAN",
+                    0.9999490976333618
+                ],
+                [
+                    "CHINA",
+                    0.999910295009613
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "JAPAN"
+            ],
+            "PER": [
+                "CHINA"
+            ]
+        },
+        "latency": 3.105048418045044,
+        "score": {
+            "p": 0.5,
+            "r": 0.5,
+            "f": 0.5
+        }
+    },
+    {
+        "id": 1,
+        "texts": "Nadim Ladki",
+        "pred": {},
+        "gt": {
+            "PER": [
+                "Nadim Ladki"
+            ]
+        },
+        "latency": 0.24785852432250977,
+        "score": {
+            "p": 0,
+            "r": 0.0,
+            "f": 0
+        }
+    },
+    {
+        "id": 2,
+        "texts": "AL-AIN , United Arab Emirates 1996-12-06",
+        "pred": {
+            "LOC": [
+                [
+                    "AL-AIN",
+                    3.921538379841409e-18
+                ],
+                [
+                    "United Arab Emirates",
+                    0.9990628957748413
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "AL-AIN",
+                "United Arab Emirates"
+            ]
+        },
+        "latency": 0.7440354824066162,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 3,
+        "texts": "Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .",
+        "pred": {
+            "MISC": [
+                [
+                    "Asian Cup",
+                    0.9992095232009888
+                ]
+            ],
+            "LOC": [
+                [
+                    "Japan",
+                    2.3856998733300105e-13
+                ],
+                [
+                    "Syria",
+                    0.9999262094497681
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Japan",
+                "Syria"
+            ],
+            "MISC": [
+                "Asian Cup"
+            ]
+        },
+        "latency": 0.8048439025878906,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 4,
+        "texts": "But China saw their luck desert them in the second match of the group , crashing to a surprise 2-0 defeat to newcomers Uzbekistan .",
+        "pred": {
+            "LOC": [
+                [
+                    "China",
+                    4.559207571360322e-19
+                ],
+                [
+                    "Uzbekistan",
+                    0.9999921321868896
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "China",
+                "Uzbekistan"
+            ]
+        },
+        "latency": 0.831322193145752,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 5,
+        "texts": "China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .",
+        "pred": {
+            "MISC": [
+                [
+                    "Uzbek",
+                    1.4280407784874469e-24
+                ],
+                [
+                    "Chinese",
+                    3.1779140799595142e-34
+                ]
+            ],
+            "PER": [
+                [
+                    "Igor Shkvyrin",
+                    0.9907271265983582
+                ]
+            ],
+            "LOC": [
+                [
+                    "China",
+                    3.4171236217263736e-35
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "China"
+            ],
+            "MISC": [
+                "Uzbek",
+                "Chinese"
+            ],
+            "PER": [
+                "Igor Shkvyrin"
+            ]
+        },
+        "latency": 2.26053786277771,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 6,
+        "texts": "Oleg Shatskiku made sure of the win in injury time , hitting an unstoppable left foot shot from just outside the area .",
+        "pred": {
+            "PER": [
+                [
+                    "Oleg Shatskiku",
+                    0.999825656414032
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Oleg Shatskiku"
+            ]
+        },
+        "latency": 0.7661662101745605,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 7,
+        "texts": "The former Soviet republic was playing in an Asian Cup finals tie for the first time .",
+        "pred": {
+            "MISC": [
+                [
+                    "Soviet",
+                    0.9995712041854858
+                ],
+                [
+                    "Asian Cup",
+                    0.9967247247695923
+                ]
+            ]
+        },
+        "gt": {
+            "MISC": [
+                "Soviet",
+                "Asian Cup"
+            ]
+        },
+        "latency": 0.619917631149292,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 8,
+        "texts": "Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .",
+        "pred": {
+            "MISC": [
+                [
+                    "Asian Games",
+                    3.9946098187061685e-13
+                ]
+            ],
+            "LOC": [
+                [
+                    "Uzbekistan",
+                    0.9999961853027344
+                ]
+            ]
+        },
+        "gt": {
+            "MISC": [
+                "Asian Games"
+            ],
+            "LOC": [
+                "Uzbekistan"
+            ]
+        },
+        "latency": 0.7233414649963379,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 9,
+        "texts": "Two goals from defensive errors in the last six minutes allowed Japan to come from behind and collect all three points from their opening meeting against Syria .",
+        "pred": {
+            "LOC": [
+                [
+                    "Japan",
+                    3.353267370807128e-13
+                ],
+                [
+                    "Syria",
+                    0.9999339580535889
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Japan",
+                "Syria"
+            ]
+        },
+        "latency": 0.69100022315979,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 10,
+        "texts": "Takuya Takagi scored the winner in the 88th minute , rising to head a Hiroshige Yanagimoto cross towards the Syrian goal which goalkeeper Salem Bitar appeared to have covered but then allowed to slip into the net .",
+        "pred": {
+            "MISC": [
+                [
+                    "Syrian",
+                    2.2701035122062037e-43
+                ]
+            ],
+            "PER": [
+                [
+                    "Takuya Takagi",
+                    1.2726621986449114e-24
+                ],
+                [
+                    "Hiroshige Yanagimoto",
+                    0.9995054006576538
+                ],
+                [
+                    "Salem Bitar",
+                    3.9629048452525703e-35
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Takuya Takagi",
+                "Hiroshige Yanagimoto",
+                "Salem Bitar"
+            ],
+            "MISC": [
+                "Syrian"
+            ]
+        },
+        "latency": 1.363929033279419,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 11,
+        "texts": "It was the second costly blunder by Syria in four minutes .",
+        "pred": {
+            "LOC": [
+                [
+                    "Syria",
+                    0.9999807476997375
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Syria"
+            ]
+        },
+        "latency": 0.5445027351379395,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 12,
+        "texts": "Defender Hassan Abbas rose to intercept a long ball into the area in the 84th minute but only managed to divert it into the top corner of Bitar 's goal .",
+        "pred": {
+            "PER": [
+                [
+                    "Hassan Abbas",
+                    0.9990859627723694
+                ],
+                [
+                    "Bitar",
+                    4.892420670872089e-25
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Hassan Abbas",
+                "Bitar"
+            ]
+        },
+        "latency": 0.8806707859039307,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 13,
+        "texts": "Nader Jokhadar had given Syria the lead with a well-struck header in the seventh minute .",
+        "pred": {
+            "PER": [
+                [
+                    "Nader Jokhadar",
+                    0.9998960494995117
+                ]
+            ],
+            "LOC": [
+                [
+                    "Syria",
+                    5.057070239895621e-25
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Nader Jokhadar"
+            ],
+            "LOC": [
+                "Syria"
+            ]
+        },
+        "latency": 0.7816143035888672,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 14,
+        "texts": "Japan then laid siege to the Syrian penalty area for most of the game but rarely breached the Syrian defence .",
+        "pred": {
+            "MISC": [
+                [
+                    "Syrian",
+                    0.9998421669006348
+                ],
+                [
+                    "Syrian",
+                    0.9997771382331848
+                ]
+            ],
+            "LOC": [
+                [
+                    "Japan",
+                    5.174924074327625e-13
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Japan"
+            ],
+            "MISC": [
+                "Syrian",
+                "Syrian"
+            ]
+        },
+        "latency": 0.731884241104126,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 15,
+        "texts": "Bitar pulled off fine saves whenever they did .",
+        "pred": {
+            "ORG": [
+                [
+                    "Bitar",
+                    0.99969881772995
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Bitar"
+            ]
+        },
+        "latency": 0.46611857414245605,
+        "score": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0
+        }
+    },
+    {
+        "id": 16,
+        "texts": "Japan coach Shu Kamo said : ' ' The Syrian own goal proved lucky for us .",
+        "pred": {
+            "MISC": [
+                [
+                    "Syrian",
+                    1.3126231872273575e-12
+                ]
+            ],
+            "PER": [
+                [
+                    "Shu Kamo",
+                    0.999902606010437
+                ]
+            ],
+            "LOC": [
+                [
+                    "Japan",
+                    1.876514227087278e-18
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Japan"
+            ],
+            "PER": [
+                "Shu Kamo"
+            ],
+            "MISC": [
+                "Syrian"
+            ]
+        },
+        "latency": 0.7367308139801025,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 17,
+        "texts": "The Syrians scored early and then played defensively and adopted long balls which made it hard for us . '",
+        "pred": {
+            "MISC": [
+                [
+                    "Syrians",
+                    0.9999183416366577
+                ]
+            ]
+        },
+        "gt": {
+            "MISC": [
+                "Syrians"
+            ]
+        },
+        "latency": 0.6884562969207764,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 18,
+        "texts": "'",
+        "pred": {},
+        "gt": {},
+        "latency": 0.24394464492797852,
+        "score": {
+            "p": 0,
+            "r": 0,
+            "f": 0
+        }
+    },
+    {
+        "id": 19,
+        "texts": "Japan , co-hosts of the World Cup in 2002 and ranked 20th in the world by FIFA , are favourites to regain their title here .",
+        "pred": {
+            "ORG": [
+                [
+                    "FIFA",
+                    0.9999540448188782
+                ]
+            ],
+            "MISC": [
+                [
+                    "World Cup",
+                    0.9998666048049927
+                ]
+            ],
+            "LOC": [
+                [
+                    "Japan",
+                    0.9999886155128479
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Japan"
+            ],
+            "MISC": [
+                "World Cup"
+            ],
+            "ORG": [
+                "FIFA"
+            ]
+        },
+        "latency": 0.8259763717651367,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 20,
+        "texts": "Hosts UAE play Kuwait and South Korea take on Indonesia on Saturday in Group A matches .",
+        "pred": {
+            "LOC": [
+                [
+                    "UAE",
+                    3.3959927968688075e-13
+                ],
+                [
+                    "Kuwait",
+                    0.9999812245368958
+                ],
+                [
+                    "South Korea",
+                    0.9993568658828735
+                ],
+                [
+                    "Indonesia",
+                    0.999822735786438
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "UAE",
+                "Kuwait",
+                "South Korea",
+                "Indonesia"
+            ]
+        },
+        "latency": 0.7199761867523193,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 21,
+        "texts": "All four teams are level with one point each from one game .",
+        "pred": {},
+        "gt": {},
+        "latency": 0.28365254402160645,
+        "score": {
+            "p": 0,
+            "r": 0,
+            "f": 0
+        }
+    },
+    {
+        "id": 22,
+        "texts": "RUGBY UNION - CUTTITTA BACK FOR ITALY AFTER A YEAR .",
+        "pred": {
+            "ORG": [
+                [
+                    "RUGBY UNION",
+                    2.5431286850702284e-12
+                ]
+            ],
+            "PER": [
+                [
+                    "CUTTITTA",
+                    0.9936658143997192
+                ]
+            ],
+            "LOC": [
+                [
+                    "ITALY",
+                    3.573940129244069e-18
+                ]
+            ]
+        },
+        "gt": {
+            "ORG": [
+                "RUGBY UNION"
+            ],
+            "PER": [
+                "CUTTITTA"
+            ],
+            "LOC": [
+                "ITALY"
+            ]
+        },
+        "latency": 0.7804083824157715,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 23,
+        "texts": "ROME 1996-12-06",
+        "pred": {
+            "LOC": [
+                [
+                    "ROME",
+                    0.9999852776527405
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "ROME"
+            ]
+        },
+        "latency": 0.46819496154785156,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 24,
+        "texts": "Italy recalled Marcello Cuttitta",
+        "pred": {
+            "PER": [
+                [
+                    "Marcello Cuttitta",
+                    0.999257504940033
+                ]
+            ],
+            "LOC": [
+                [
+                    "Italy",
+                    3.923635700109488e-44
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Italy"
+            ],
+            "PER": [
+                "Marcello Cuttitta"
+            ]
+        },
+        "latency": 0.6936917304992676,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 25,
+        "texts": "on Friday for their friendly against Scotland at Murrayfield more than a year after the 30-year-old wing announced he was retiring following differences over selection .",
+        "pred": {
+            "LOC": [
+                [
+                    "Scotland",
+                    7.178574683470995e-13
+                ],
+                [
+                    "Murrayfield",
+                    0.9987685680389404
+                ]
+            ]
+        },
+        "gt": {
+            "LOC": [
+                "Scotland",
+                "Murrayfield"
+            ]
+        },
+        "latency": 0.8283877372741699,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 26,
+        "texts": "Cuttitta , who trainer George Coste said was certain to play on Saturday week , was named in a 21-man squad lacking only two of the team beaten 54-21 by England at Twickenham last month .",
+        "pred": {
+            "PER": [
+                [
+                    "Cuttitta",
+                    0.9998365044593811
+                ],
+                [
+                    "George Coste",
+                    0.9984498620033264
+                ]
+            ],
+            "LOC": [
+                [
+                    "England",
+                    2.389537640052107e-18
+                ],
+                [
+                    "Twickenham",
+                    0.999668538570404
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Cuttitta",
+                "George Coste"
+            ],
+            "LOC": [
+                "England",
+                "Twickenham"
+            ]
+        },
+        "latency": 1.2131586074829102,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 27,
+        "texts": "Stefano Bordon is out through illness and Coste said he had dropped back row Corrado Covi , who had been recalled for the England game after five years out of the national team .",
+        "pred": {
+            "PER": [
+                [
+                    "Stefano Bordon",
+                    0.9982707500457764
+                ],
+                [
+                    "Coste",
+                    8.8418439181759e-25
+                ],
+                [
+                    "Corrado Covi",
+                    1.2506726069280022e-13
+                ]
+            ],
+            "LOC": [
+                [
+                    "England",
+                    3.488980667625379e-25
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Stefano Bordon",
+                "Coste",
+                "Corrado Covi"
+            ],
+            "LOC": [
+                "England"
+            ]
+        },
+        "latency": 1.0633933544158936,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 28,
+        "texts": "Cuttitta announced his retirement after the 1995 World Cup , where he took issue with being dropped from the Italy side that faced England in the pool stages .",
+        "pred": {
+            "MISC": [
+                [
+                    "World Cup",
+                    2.6796999844313675e-18
+                ]
+            ],
+            "PER": [
+                [
+                    "Cuttitta",
+                    0.9998486638069153
+                ]
+            ],
+            "LOC": [
+                [
+                    "Italy",
+                    1.264241858518004e-18
+                ],
+                [
+                    "England",
+                    9.248050888319954e-19
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Cuttitta"
+            ],
+            "MISC": [
+                "1995 World Cup"
+            ],
+            "LOC": [
+                "Italy",
+                "England"
+            ]
+        },
+        "latency": 0.968595027923584,
+        "score": {
+            "p": 0.75,
+            "r": 0.75,
+            "f": 0.75
+        }
+    },
+    {
+        "id": 29,
+        "texts": "Coste said he had approached the player two months ago about a comeback .",
+        "pred": {
+            "PER": [
+                [
+                    "Coste",
+                    0.9999616742134094
+                ]
+            ]
+        },
+        "gt": {
+            "PER": [
+                "Coste"
+            ]
+        },
+        "latency": 0.5643072128295898,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 30,
+        "texts": "\" He ended the World Cup on the wrong note , \" Coste said .",
+        "pred": {
+            "MISC": [
+                [
+                    "World Cup",
+                    0.9999774694442749
+                ]
+            ],
+            "PER": [
+                [
+                    "Coste",
+                    0.9999445080757141
+                ]
+            ]
+        },
+        "gt": {
+            "MISC": [
+                "World Cup"
+            ],
+            "PER": [
+                "Coste"
+            ]
+        },
+        "latency": 0.5815234184265137,
+        "score": {
+            "p": 1.0,
+            "r": 1.0,
+            "f": 1.0
+        }
+    },
+    {
+        "id": 31,
+        "texts": "\" I thought it would be useful to have him back and he said he would be available .",
+        "pred": {},
+        "gt": {},
+        "latency": 0.37635374069213867,
+        "score": {
+            "p": 0,
+            "r": 0,
+            "f": 0
+        }
+    },
+    {
+        "id": 32,
+        "texts": "I think now is the right time for him to return . \"",
+        "pred": {},
+        "gt": {},
+        "latency": 0.2852315902709961,
+        "score": {
+            "p": 0,
+            "r": 0,
+            "f": 0
+        }
+    }
+]

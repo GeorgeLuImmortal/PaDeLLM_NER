@@ -2735,10 +2735,6 @@
             ],
             "PER": [
                 [
-                    "Cairns",
-                    0.7198414533500632
-                ],
-                [
                     "Vaughan",
                     0.9998010733085979
                 ],
@@ -4701,10 +4697,6 @@
                 ]
             ],
             "MISC": [
-                [
-                    "Barbarians",
-                    0.5119547040977666
-                ],
                 [
                     "World Cup",
                     0.9999793771110639
@@ -10131,10 +10123,6 @@
             ],
             "LOC": [
                 [
-                    "Indianapolis",
-                    0.9983539622908564
-                ],
-                [
                     "Kansas City",
                     0.9995404719641752
                 ],
@@ -10176,10 +10164,6 @@
         "texts": "Philadelphia , which fell from an NFC East tie with the Dallas Cowboys and Washington Redskins , go on the road against the New York Jets and then entertain Arizona .",
         "pred": {
             "ORG": [
-                [
-                    "Philadelphia",
-                    0.9975780098685191
-                ],
                 [
                     "Dallas Cowboys",
                     0.9998029721030617
@@ -12827,12 +12811,7 @@
                     0.9999208504925323
                 ]
             ],
-            "LOC": [
-                [
-                    "Rose Bowl",
-                    0.9922605099210156
-                ]
-            ]
+            "LOC": []
         },
         "gt": {
             "PER": [
@@ -15401,10 +15380,6 @@
                 ]
             ],
             "LOC": [
-                [
-                    "Barcelona",
-                    0.998740423218994
-                ],
                 [
                     "Spain",
                     0.9986977702640762
@@ -19363,12 +19338,7 @@
         "id": 868,
         "texts": "World number two Rodney Eyles moved within sight of his fifth title of the year on Friday when he hurried in only 40 minutes to the final of the richest squash tournament outside the World Open , the $ 105,000 Mahindra International .",
         "pred": {
-            "ORG": [
-                [
-                    "Mahindra International",
-                    0.9915775069625296
-                ]
-            ],
+            "ORG": [],
             "MISC": [
                 [
                     "World Open",
@@ -20429,12 +20399,7 @@
                     0.9982899364764011
                 ]
             ],
-            "LOC": [
-                [
-                    "RADIO ROMANIA",
-                    0.8544997792438604
-                ]
-            ]
+            "LOC": []
         },
         "gt": {
             "ORG": [
@@ -22746,12 +22711,7 @@
         "id": 1007,
         "texts": "Britain sets conditions to clear American alliance .",
         "pred": {
-            "ORG": [
-                [
-                    "American",
-                    0.9995478053169666
-                ]
-            ],
+            "ORG": [],
             "MISC": [
                 [
                     "American",
@@ -25352,12 +25312,7 @@
         "id": 1141,
         "texts": "The city in late June sold its first issue of Euronotes , a strategy that it says saved it $ 500,000 in interest costs , and it has been trying to build on this strategy of expanding the pool of potential investors since then .",
         "pred": {
-            "ORG": [
-                [
-                    "Euronotes",
-                    0.9982686558818779
-                ]
-            ],
+            "ORG": [],
             "MISC": [
                 [
                     "Euronotes",
@@ -26255,12 +26210,7 @@
         "id": 1178,
         "texts": "Russ Berrie president to retire in July .",
         "pred": {
-            "ORG": [
-                [
-                    "Russ Berrie",
-                    0.9841572869551243
-                ]
-            ],
+            "ORG": [],
             "PER": [
                 [
                     "Russ Berrie",
@@ -26312,12 +26262,7 @@
                     0.9987844239802779
                 ]
             ],
-            "PER": [
-                [
-                    "A. Curts Cooke",
-                    0.9869492403755346
-                ]
-            ]
+            "PER": []
         },
         "gt": {
             "ORG": [
@@ -35308,12 +35253,7 @@
                     0.9997014434382447
                 ]
             ],
-            "PER": [
-                [
-                    "Lahd",
-                    0.9848801946247575
-                ]
-            ],
+            "PER": [],
             "LOC": [
                 [
                     "Israel",
@@ -40865,12 +40805,7 @@
         "id": 1911,
         "texts": "UK bookmakers lengthen Conservative victory odds .",
         "pred": {
-            "ORG": [
-                [
-                    "Conservative",
-                    0.9978337734295694
-                ]
-            ],
+            "ORG": [],
             "MISC": [
                 [
                     "Conservative",
@@ -43750,12 +43685,7 @@
                     0.9984857584351616
                 ]
             ],
-            "MISC": [
-                [
-                    "Olympic Airways",
-                    0.8233505926609687
-                ]
-            ],
+            "MISC": [],
             "PER": [
                 [
                     "Mahammad Rashid",
@@ -43812,10 +43742,6 @@
                 [
                     "Greek",
                     0.999912029349361
-                ],
-                [
-                    "Pan American",
-                    0.9988122068308819
                 ]
             ],
             "PER": [
@@ -43934,20 +43860,7 @@
                     0.9764024825610766
                 ]
             ],
-            "MISC": [
-                [
-                    "Pan American",
-                    0.8034515026148229
-                ],
-                [
-                    "Pan American",
-                    0.9865320409647192
-                ],
-                [
-                    "TWA",
-                    0.5567225085084224
-                ]
-            ],
+            "MISC": [],
             "PER": [
                 [
                     "Rashid",
@@ -45427,12 +45340,7 @@
                     0.9992299590452066
                 ]
             ],
-            "PER": [
-                [
-                    "Reuter",
-                    0.995392434038824
-                ]
-            ]
+            "PER": []
         },
         "gt": {
             "ORG": [
@@ -46230,16 +46138,7 @@
                     0.9998169267744363
                 ]
             ],
-            "MISC": [
-                [
-                    "European Union",
-                    0.9121139226895776
-                ],
-                [
-                    "EU",
-                    0.9989239499721282
-                ]
-            ]
+            "MISC": []
         },
         "gt": {
             "ORG": [
@@ -46714,12 +46613,7 @@
         "id": 2198,
         "texts": "Member of Parliament Tony Marlow said the resignation of the chancellor of the exchequer was the only way to make the Conservatives electable in a general election which must take place by May next year .",
         "pred": {
-            "ORG": [
-                [
-                    "Conservatives",
-                    0.9881335162297612
-                ]
-            ],
+            "ORG": [],
             "MISC": [
                 [
                     "Conservatives",
@@ -49127,12 +49021,7 @@
                     0.999778779365653
                 ]
             ],
-            "PER": [
-                [
-                    "K.T. Arasu",
-                    0.9995364149300835
-                ]
-            ]
+            "PER": []
         },
         "gt": {
             "LOC": [
@@ -55593,12 +55482,7 @@
         "id": 2578,
         "texts": "3. Sashurin 68 .",
         "pred": {
-            "ORG": [
-                [
-                    "Sashurin",
-                    0.9988363370509095
-                ]
-            ],
+            "ORG": [],
             "PER": [
                 [
                     "Sashurin",
@@ -60833,12 +60717,7 @@
                     0.9999445700643037
                 ]
             ],
-            "PER": [
-                [
-                    "Sutton",
-                    0.9979884547795799
-                ]
-            ]
+            "PER": []
         },
         "gt": {
             "PER": [
@@ -62124,12 +62003,7 @@
         "id": 2860,
         "texts": "I 've also got a contract to play for New South Wales in the Super 12 next year . \"",
         "pred": {
-            "ORG": [
-                [
-                    "New South Wales",
-                    0.9980351260700152
-                ]
-            ],
+            "ORG": [],
             "MISC": [
                 [
                     "Super 12",
@@ -72579,12 +72453,7 @@
                     0.999956847881306
                 ]
             ],
-            "LOC": [
-                [
-                    "Buffalo",
-                    0.9999039254423656
-                ]
-            ]
+            "LOC": []
         },
         "gt": {
             "PER": [
@@ -72767,10 +72636,6 @@
                 [
                     "German",
                     0.9990117052540164
-                ],
-                [
-                    "International Boxing Federation",
-                    0.9953976611193478
                 ]
             ],
             "PER": [

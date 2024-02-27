@@ -4,6 +4,11 @@ This repository is an official implementation based on paper [PaDeLLM-NER: Paral
 
 ![overview](./padellm.png)
 
+End2end latency and speedup as compared to autoregressive decoding.
+
+![speedup](./latency_speedup.png)
+
+
 # Dependencies
 
 Tested Python 3.9, and requiring the following packages, which are available via PIP:

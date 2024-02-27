@@ -3,12 +3,18 @@
 This repository is an official implementation based on paper [PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition](https://arxiv.org/abs/2402.04838) 
 
 
-![overview](./padellm.png)
+<p align="center">
+  <img src="./padellm.png" alt="overview">
+</p>
+
 
 
 End2end latency and speedup as compared to autoregressive decoding.
 
-![speedup](./latency_speedup.png)
+<p align="center">
+  <img src="./latency_speedup" alt="latency_speedup">
+</p>
+
 
 
 # Dependencies

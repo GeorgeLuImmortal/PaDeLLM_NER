@@ -4,4 +4,10 @@ This repository is an official implementation based on paper [PaDeLLM-NER: Paral
 
 ![overview](./padellm.png)
 
-Code coming soon
+# Training
+
+Since it is easy to re-implement the training procedure based on the paper, we will not provide the training code, instead, we provide the trained models online for replicate purpose.
+
+All model weights are available at https://huggingface.co/JinghuiLuAstronaut
+
+with names PaDeLLM_{model}_{model_size}_{dataset}

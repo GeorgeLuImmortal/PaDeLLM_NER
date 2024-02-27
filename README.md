@@ -4,6 +4,15 @@ This repository is an official implementation based on paper [PaDeLLM-NER: Paral
 
 ![overview](./padellm.png)
 
+### Dependencies
+
+Tested Python 3.9, and requiring the following packages, which are available via PIP:
+
+* Required: [torch >= 2.1.0](https://pytorch.org/)
+* Required: [transformers >= 4.36.2](https://huggingface.co/transformers/)
+* Required: [sentencepiece >= 0.1.99](https://huggingface.co/transformers/)
+
+
 # Datasets
 We provide processed datasets used in our paper at the **ner_data** directory, except ACE05 and Ontonotes 4 for copyright reasons.
 
@@ -17,5 +26,7 @@ with names **PaDeLLM\_{model}\_{model_size}\_{dataset}**
 
 # Quick start
 
-For English dataset: bash run_conll03_pred_eval_multigpus.sh
-For Chinese dataset: bash run_weibo_pred_eval_multigpus.sh
+For English dataset: 
+    bash run_conll03_pred_eval_multigpus.sh
+For Chinese dataset: 
+    bash run_weibo_pred_eval_multigpus.sh

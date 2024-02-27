@@ -42,7 +42,3 @@ Note that run\_{dataset}\_pred\_eval\_multigpus.sh corresponding to PaDeLLM-Mult
 
 
 run\_{dataset}\_pred\_eval\_single.sh corresponding to PaDeLLM-Single in the paper using one gpu parallel decoding all entities (requires large gpu memory in some datasets).
-
-## Results
-
-Results will appear in **results** dir

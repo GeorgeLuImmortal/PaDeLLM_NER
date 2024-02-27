@@ -12,13 +12,13 @@ This repository is an official implementation based on paper [PaDeLLM-NER: Paral
 End2end latency and speedup as compared to autoregressive decoding.
 
 <p align="center">
-  <img src="./latency_speedu.png" alt="latency_speedup">
+  <img src="./latency_speedup.png" alt="latency_speedup">
 </p>
 
 End2end micro f-score as compared to autoregressive decoding.
 
 <p align="center">
-  <img src="./micro_fscore" alt="micro_fscore">
+  <img src="./micro_fscore.png" alt="micro_fscore">
 </p>
 
 

@@ -101,6 +101,7 @@ if __name__ == "__main__":
         model_path, 
         trust_remote_code = True
         ).to(device)
+    model.eval()
 
 
     if sample_method == 'greedy':

@@ -1,6 +1,6 @@
 # PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition
 
-This repository is an official implementation for Neurips2024 Paper [PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition](https://arxiv.org/abs/2402.04838) 
+This repository is an official implementation for **Neurips2024 Paper [PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition]**(https://arxiv.org/abs/2402.04838) 
 
 
 <p align="center">
